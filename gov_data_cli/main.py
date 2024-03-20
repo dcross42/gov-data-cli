@@ -1,3 +1,7 @@
+""" 
+Main app script
+"""
+
 import typer
 
 app = typer.Typer()
